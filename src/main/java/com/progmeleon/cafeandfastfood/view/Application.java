@@ -7,4 +7,5 @@ public class Application extends javafx.application.Application {
     public void start(Stage stage) throws Exception {
         stage.show();
     }
+
 }
